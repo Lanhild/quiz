@@ -1,4 +1,4 @@
-Quelle\ est\ la\ couleur\ du\ mur\ rouge vert bleu bleu
+question1 rep11 rep12 rep13 rep12
 question2 rep21 rep22 rep23 rep23
 question3 rep31 rep32 rep33 rep32
 question4 rep41 rep42 rep43 rep41
